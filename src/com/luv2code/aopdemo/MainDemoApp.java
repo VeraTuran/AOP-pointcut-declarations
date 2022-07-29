@@ -26,6 +26,8 @@ public class MainDemoApp {
 		
 		// close the spring context
 		context.close();
+
+		/// commentaire test pour github dans eclipse
 	}
 
 }
